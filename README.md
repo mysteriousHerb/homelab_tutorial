@@ -20,6 +20,7 @@
 ### Tailscale subnet (access other devices on the same IP address):
 - subnet basically allows any device on the same IP address (192.168.1.xxx) to be accesible on the tailnet -> e.g. 192.168.1.2:8888
 - Follow this to make it work https://tailscale.com/kb/1019/subnets?tab=linux#verify-your-connection
+- https://tailscale.com/kb/1019/subnets?tab=linux#enable-ip-forwarding
 
 ### Add cloudflare to any container
 - https://www.reddit.com/r/homeassistant/comments/zp9l61/cloudflare_tunnel_for_ha_in_docker/
